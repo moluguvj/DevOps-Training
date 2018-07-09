@@ -1,4 +1,4 @@
-## DevOps-WebApp
+## DevOps-WebApp Project
 -------------------
 DevOps-WebApp for maven web app
 
