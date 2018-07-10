@@ -1,11 +1,11 @@
 ## DevOps-WebApp Project
--------------------
+----------------------------
 DevOps-WebApp for maven web app
 
 ## By: Devops
 
 # Pre-reques:
----------------
+---------------------
 -- Install Java
 -- Install maven
   -- $sudo apt-get update
