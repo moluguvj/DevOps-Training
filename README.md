@@ -2,7 +2,7 @@
 ---------------------------------------------------------
 DevOps-WebApp for maven web app
 
-## By: Devops >>>>>>>>>>>>>
+## By: Devops 
 
 # Pre-reques:
 ---------------------
